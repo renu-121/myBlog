@@ -1,0 +1,26 @@
+.head{
+    background-color:darkred;
+}
+.main{
+    margin-top:-8px;
+}
+.bgnav{
+    background-color: #451149;
+    margin: 0 auto;
+    border-radius: 30px;
+    width: 70%;
+}
+p{
+    font-style: italic;
+}
+
+a{
+    color: white;
+    padding: 0.5em 1em ;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-left: 5px;
+}
+#one{
+    color:cornsilk;
+}
